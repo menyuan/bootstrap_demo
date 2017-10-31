@@ -1,0 +1,30 @@
+*{
+    margin:0;
+    padding:0;
+}
+.page-header{
+    margin-top:0;
+}
+.page-header h1{
+    margin:0;
+    font-size:16px;
+}
+footer{
+    font-weight: 400;
+    text-align: center;
+    padding:20px 0;
+}
+.add_style{
+    margin-top:20px;
+}
+.taglist{
+    padding-top:10px;
+
+}
+.taglist .alert{
+    margin:15px 15px 15px 0;
+    padding:10px 25px 10px 10px;
+}
+.pad0{
+    padding:0;
+}
